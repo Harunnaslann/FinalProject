@@ -1,0 +1,8 @@
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.Core\bin\Debug\netcoreapp2.1\FinalProject.Core.deps.json
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.Core\bin\Debug\netcoreapp2.1\FinalProject.Core.dll
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.Core\obj\Debug\netcoreapp2.1\FinalProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.Core\obj\Debug\netcoreapp2.1\FinalProject.Core.AssemblyInfoInputs.cache
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.Core\obj\Debug\netcoreapp2.1\FinalProject.Core.AssemblyInfo.cs
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.Core\bin\Debug\netcoreapp2.1\FinalProject.Core.pdb
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.Core\obj\Debug\netcoreapp2.1\FinalProject.Core.dll
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.Core\obj\Debug\netcoreapp2.1\FinalProject.Core.pdb

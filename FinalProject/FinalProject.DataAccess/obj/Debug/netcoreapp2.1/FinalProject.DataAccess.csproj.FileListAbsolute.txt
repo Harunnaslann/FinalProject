@@ -1,0 +1,14 @@
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\bin\Debug\netcoreapp2.1\FinalProject.Core.dll
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\bin\Debug\netcoreapp2.1\FinalProject.Entities.dll
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\obj\Debug\netcoreapp2.1\FinalProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\obj\Debug\netcoreapp2.1\FinalProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\obj\Debug\netcoreapp2.1\FinalProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\obj\Debug\netcoreapp2.1\FinalProject.DataAccess.AssemblyInfo.cs
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\bin\Debug\netcoreapp2.1\FinalProject.DataAccess.deps.json
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\bin\Debug\netcoreapp2.1\FinalProject.DataAccess.dll
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\bin\Debug\netcoreapp2.1\FinalProject.DataAccess.pdb
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\bin\Debug\netcoreapp2.1\FinalProject.Core.pdb
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\bin\Debug\netcoreapp2.1\FinalProject.Entities.pdb
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\obj\Debug\netcoreapp2.1\FinalProject.DataAccess.csproj.CopyComplete
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\obj\Debug\netcoreapp2.1\FinalProject.DataAccess.dll
+C:\Users\Harun ASLAN\source\repos\FinalProject\FinalProject.DataAccess\obj\Debug\netcoreapp2.1\FinalProject.DataAccess.pdb

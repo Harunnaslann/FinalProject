@@ -1,0 +1,68 @@
+﻿.dropdown-menu {
+    position: absolute;
+    /* top: 100%; */
+    left: -85px !important;
+    /* z-index: 1000; */
+    /* display: none; */
+    float: left;
+    min-width: 20rem;
+    /* padding: 0.5rem 0; */
+    margin: 0.125rem 0 0;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+}
+
+body > div.mainbox.col-md-6.col-md-offset-3.col-sm-8.col-sm-offset-2 {
+    margin: auto;
+}
+
+#loginbox {
+    margin: auto;
+}
+
+.table-responsive {
+    display: inline-table !important;
+}
+
+body > div.mainbox.col-md-6.col-md-offset-3.col-sm-8.col-sm-offset-2 {
+    margin: auto;
+    width: 100% !important;
+    max-width: 100%;
+}
+
+    body > div.mainbox.col-md-6.col-md-offset-3.col-sm-8.col-sm-offset-2 > div > table > tbody > tr:nth-child(n) > td:nth-child(5) {
+        width: 10px;
+    }
+
+body > div.col-md-12 > nav {
+    padding: 0;
+}
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 2.25rem !important;
+    line-height: inherit;
+    white-space: nowrap;
+    font-weight: 700;
+}
+
+body > div.col-md-12 > nav > a {
+    margin-right: 63%;
+}
+
+body > div.mainbox.col-md-6.col-md-offset-3.col-sm-8.col-sm-offset-2 > div > table > tbody > tr:nth-child(1) > td:nth-child(n) {
+    font-weight: 700;
+}
+
+#navbarSupportedContent > ul > li > a {
+    font-size: x-large;
+}
